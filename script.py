@@ -8,3 +8,5 @@ while i < 10:
     print('Still less ten')
     sleep(1)
     i += 1
+
+print(i)
